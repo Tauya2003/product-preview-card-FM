@@ -19,7 +19,6 @@ body{
     left: 50%;
     transform: translate(-50%, -50%);
     width: 600px;
-    height: 450px;
     display: grid;
     grid-template-columns: 1fr 1fr;
     background-color: hsl(0, 0%, 100%);
@@ -107,7 +106,6 @@ button img{
 @media (max-width: 415px) {
     .container{
         grid-template-columns: 1fr;
-        height: 650px;
         width: 95vw;
     }
 
