@@ -25,14 +25,16 @@ Users should be able to:
 
 ### Screenshot
 
--Mobile screenshot
-  [](./screenshot.jpg)
+- Mobile screenshot
+  - [mobile-screenshot](./images/mobile-screenshot.jpg)
 
+- Mobile screenshot
+  - [desktop-screenshot](./images/desktop-screenshot.png)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://github.com/Tauya2003/product-preview-card-FM](https://github.com/Tauya2003/product-preview-card-FM)
+- Live Site URL: [https://tauya2003.github.io/product-preview-card-FM](https://tauya2003.github.io/product-preview-card-FM/)
 
 
 ## My process
